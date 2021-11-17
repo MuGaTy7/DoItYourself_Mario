@@ -1,0 +1,47 @@
+* {
+    background-image: url(https://thumb.besoccerapps.com/rbetis/img_news/28/28842.jpg?v=1&size=1050x590t);
+}
+
+h5 {
+    font-weight: bold;
+    color: green;
+}
+
+img {
+    margin: 10px;
+    padding: 30px;
+}
+
+.selector {
+    text-decoration: underline red;
+    text-align: center;
+}
+
+h3 {
+    color: lightcyan;
+}
+
+body {
+    margin: 20px;
+    padding-right: 10px;
+    color: white;
+}
+
+b {
+    text-decoration: underline yellow;
+}
+
+h2 {
+    background-color: rgba(0, 139, 139, 0.529);
+    padding: 1px;
+}
+
+span {
+    font-weight: 700;
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: darkcyan;
+}
